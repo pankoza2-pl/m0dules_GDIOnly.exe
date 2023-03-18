@@ -1,0 +1,8 @@
+C:\Users\ACER\source\repos\m0dules\m0dules\bin\Debug\m0dules_GDIOnly.exe
+C:\Users\ACER\source\repos\m0dules\m0dules\bin\Debug\m0dules_GDIOnly.pdb
+C:\Users\ACER\source\repos\m0dules\m0dules\obj\Debug\m0dules_GDIOnly.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\m0dules\m0dules\obj\Debug\m0dules.Properties.Resources.resources
+C:\Users\ACER\source\repos\m0dules\m0dules\obj\Debug\m0dules_GDIOnly.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\m0dules\m0dules\obj\Debug\m0dules_GDIOnly.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\m0dules\m0dules\obj\Debug\m0dules_GDIOnly.exe
+C:\Users\ACER\source\repos\m0dules\m0dules\obj\Debug\m0dules_GDIOnly.pdb
